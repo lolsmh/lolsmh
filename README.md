@@ -11,11 +11,11 @@
 
 ### Языки
 
-[<img align="left" alt="swift" width="22px" src="http://cdn.osxdaily.com/wp-content/uploads/2014/06/swift-icon.png">][Swift]
-[<img align="left" alt="c++" width="22px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png">][C++]
-[<img align="left" alt="JS" width="22px" src="https://www.shareicon.net/data/512x512/2016/07/06/106573_software_512x512.png">][JavaScript]
-[<img align="left" alt="CSS" width="22px" src="https://cdn-images-1.medium.com/max/1600/1*eXIBeNlLhz4Pe6vDrYkXLQ.png">][CSS]
-[<img align="left" alt="CSS" width="22px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">][HTML5]
+[<img align="left" alt="swift" width="30px" height="30px" src="http://cdn.osxdaily.com/wp-content/uploads/2014/06/swift-icon.png">][Swift]
+[<img align="left" alt="c++" width="30px" height="30px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png">][C++]
+[<img align="left" alt="JS" width="30px" height="30px" src="https://www.shareicon.net/data/512x512/2016/07/06/106573_software_512x512.png">][JavaScript]
+[<img align="left" alt="CSS" width="30px" height="30px" src="https://cdn-images-1.medium.com/max/1600/1*eXIBeNlLhz4Pe6vDrYkXLQ.png">][CSS]
+[<img align="left" alt="CSS" width="30px" height="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">][HTML5]
 
 [telegram]: https://t.me/im2fat2move
 [vk]: https://vk.com/youngsinatralv
