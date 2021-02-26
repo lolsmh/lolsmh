@@ -1,4 +1,4 @@
-### lolsmh ###
+# lolsmh #
 
 ## Преподаватель олимпиадного программирования Санкт-Петербург https://hwschool.online/first-lesson ##
 
