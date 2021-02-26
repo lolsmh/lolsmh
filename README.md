@@ -28,7 +28,7 @@
 
 ---
 
-<img margin="20px" align="left" alt="lolsmh git stats" src="https://github-readme-stats.vercel.app/api?username=lolsmh&show_icons=true&theme=radical&hide=contribs,prs">
+<img display="block" margin="20px" align="left" alt="lolsmh git stats" src="https://github-readme-stats.vercel.app/api?username=lolsmh&show_icons=true&theme=radical&hide=contribs,prs">
 
 ---
 
