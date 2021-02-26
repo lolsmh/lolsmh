@@ -3,9 +3,9 @@
 Преподаватель олимпиадного программирования Санкт-Петербург https://hwschool.online/first-lesson
 
 ### Контакты
-[<img align="left" alt="lolsmth | telegram" width="22px" src="http://telegram.org/img/t_logo.png">][telegram]
-[<img align="left" alt="lolsmth | vk" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/768px-VK.com-logo.svg.png">][vk]
-[<img align="left" alt="lolsmth | email" width="22px" src="https://i.pinimg.com/originals/da/14/8f/da148fcb4dcb742ea37c0ea275d30702.png">][email]
+[<img align="left" alt="lolsmth | telegram" width="30px" height="30px" src="http://telegram.org/img/t_logo.png">][telegram]
+[<img align="left" alt="lolsmth | vk" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/768px-VK.com-logo.svg.png">][vk]
+[<img align="left" alt="lolsmth | email" width="30px" height="30px" src="https://i.pinimg.com/originals/da/14/8f/da148fcb4dcb742ea37c0ea275d30702.png">][email]
 
 </br>
 
