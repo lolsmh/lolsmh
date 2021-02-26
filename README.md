@@ -28,4 +28,4 @@
 
 ---
 
-<img align="left" alt="lolsmh git stats" src="https://github-readme-stats.vercel.app/api?username=lolsmh&show_icons=true&theme=radical">
+<img align="left" alt="lolsmh git stats" src="https://github-readme-stats.vercel.app/api?username=lolsmh&show_icons=true&theme=radicalhide=contribs,prs,issues">
