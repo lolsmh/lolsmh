@@ -27,9 +27,8 @@
 </br>
 
 ---
-<div>
-<img display="block" margin="20px" align="left" alt="lolsmh git stats" src="https://github-readme-stats.vercel.app/api?username=lolsmh&show_icons=true&theme=radical&hide=contribs,prs">
-</div>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lolsmh&show_icons=true&theme=radical&hide=contribs,prs)
 
 ---
 
