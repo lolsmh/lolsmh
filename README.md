@@ -7,6 +7,9 @@
 [<img align="left" alt="lolsmth | vk" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/768px-VK.com-logo.svg.png">][vk]
 [<img align="left" alt="lolsmth | email" width="22px" src="https://i.pinimg.com/originals/da/14/8f/da148fcb4dcb742ea37c0ea275d30702.png">][email]
 
+</br>
+</br>
+
 ### Языки
 
 [<img align="left" alt="swift" width="22px" src="http://cdn.osxdaily.com/wp-content/uploads/2014/06/swift-icon.png">][Swift]
