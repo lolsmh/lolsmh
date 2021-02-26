@@ -30,4 +30,6 @@
 
 <img align="left" alt="lolsmh git stats" src="https://github-readme-stats.vercel.app/api?username=lolsmh&show_icons=true&theme=radical&hide=contribs,prs">
 </br>
+</br>
+</br>
 <img align="left" alt="lolsmh git stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolsmh&langs_count=8&theme=cobalt&layout=compact">
