@@ -24,6 +24,7 @@
 [JavaScript]: https://ru.wikipedia.org/wiki/JavaScript
 [CSS]: https://ru.wikipedia.org/wiki/CSS
 [HTML5]: https://ru.wikipedia.org/wiki/HTML5
+</br>
 
 ---
 
