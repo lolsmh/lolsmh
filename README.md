@@ -4,9 +4,9 @@
 
 
 ### Contact Information
-[<img align="left" alt="lolsmth | telegram" width="22px" src="https://i.pinimg.com/originals/99/f0/3f/99f03fdee90d871d3d1e718c82feb8be.png">][telegram]
-[<img align="left" alt="lolsmth | telegram" width="22px" src="https://image.freepik.com/icones-gratuites/vk-reproductor_318-1867.jpg">][vk]
-[<img align="left" alt="lolsmth | telegram" width="22px" src="http://png-2.findicons.com/files/icons/2779/simple_icons/4096/email_4096_black.png">][email]
+[<img align="left" alt="lolsmth | telegram" width="22px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/6f/c3/27/6fc3270e-284a-2dcc-675f-05d914ef895a/source/512x512bb.jpg">][telegram]
+[<img align="left" alt="lolsmth | telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/768px-VK.com-logo.svg.png">][vk]
+[<img align="left" alt="lolsmth | telegram" width="22px" src="https://i.pinimg.com/originals/da/14/8f/da148fcb4dcb742ea37c0ea275d30702.png">][email]
 
 [telegram]: https://t.me/im2fat2move
 [vk]: https://vk.com/youngsinatralv
