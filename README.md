@@ -1,4 +1,4 @@
-## Преподаватель олимпиадного программирования Санкт-Петербург https://hwschool.online/first-lesson ##
+## iOS разработчик Санкт-Петербург http://sixhandsapps.com/ ##
 
 ### Контакты
 [<img align="left" alt="lolsmth | telegram" width="30px" height="30px" src="http://telegram.org/img/t_logo.png">][telegram]
