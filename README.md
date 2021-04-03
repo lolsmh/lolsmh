@@ -1,4 +1,4 @@
-## iOS разработчик Санкт-Петербург http://sixhandsapps.com/ ##
+## iOS разработчик Санкт-Петербург https://www.sixhands.co/ ##
 
 ### Контакты
 [<img align="left" alt="lolsmth | telegram" width="30px" height="30px" src="http://telegram.org/img/t_logo.png">][telegram]
